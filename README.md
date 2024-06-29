@@ -1,1 +1,3 @@
-# Survival-the-App-pocalypse
+This project aims to analyze app churn on the Google Play Store and build a predictive model using Survival Analysis and Cox Proportional Hazards Regression. The project involves data preprocessing, exploratory data analysis, Kaplan-Meier estimation to compare survival probabilities of free vs. paid apps, and building a Cox Proportional Hazards model to identify factors contributing to app churn. The model's performance is evaluated using the Concordance Index. The project concludes with actionable insights and recommendations for app developers to reduce churn and increase user retention. 
+
+Select the 'Surviving the App-pocalypse' link. Then select 'Open in Colab'. This opens the code in Google Colab.
